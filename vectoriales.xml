@@ -1,0 +1,19 @@
+<figuras>
+	<rectangulo>
+		<altura>120px</altura>
+		<anchura>150px</anchura>
+		<vertice_x>150</vertice_x>
+		<vertice_y>400</vertice_y>
+	</rectangulo>
+	<circunferencia>
+		<centro_x>400</centro_x>
+		<centro_y>400</centro_y>
+		<radio>100px</radio>
+	</circunferencia>
+	<recta>
+		<posicion_inicio_x>300</posicion_inicio_x>
+		<posicion_inicio_y>500</posicion_inicio_y>
+		<posicion_final_x>400</posicion_final_x>
+		<posicion_final_y>400</posicion_final_y>
+	</recta>
+</figuras>
