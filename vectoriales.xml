@@ -11,8 +11,8 @@
 		<radio>100px</radio>
 	</circunferencia>
 	<recta>
-		<posicion_inicio_x>270</posicion_inicio_x>
-		<posicion_inicio_y>550</posicion_inicio_y>
+		<posicion_inicio_x>300</posicion_inicio_x>
+		<posicion_inicio_y>520</posicion_inicio_y>
 		<posicion_final_x>400</posicion_final_x>
 		<posicion_final_y>400</posicion_final_y>
 	</recta>
