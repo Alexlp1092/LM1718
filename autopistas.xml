@@ -1,0 +1,21 @@
+<panel>
+	<evento n="1">
+		<señal>Accidente</señal>
+		<puntoKm.>42.200</puntoKm.>
+		<nombreVia>A-49</nombreVia>
+		<sentido>Huelva</sentido>
+		<corte>1 carril</corte>
+		<fechaHora></fechaHora>
+		<retencion>Si</retencion>
+		<kmsRetencion>8</kmsRetencion>
+	</evento>
+	<evento n="2">
+		<señal>Retencion</señal>
+		<puntoKm.>500</puntoKm.>
+		<nombreVia>A-4</nombreVia>
+		<sentido>Sevilla</sentido>
+		<fechaHora></fechaHora>
+		<retencion>Si</retencion>
+		<kmsRetencion>3</kmsRetencion>
+	</evento>
+</panel>
