@@ -1,0 +1,17 @@
+<prediccion>
+	<ciudad = Dos Hermanas>
+		<fecha = 25/10/11 >
+			<probPrecipitacion> 55% </probPrecipitacion>
+			<estadoCielo>Intervalos Nubosos</estadoCielo>
+			<direccionViento>Suroeste</direccionViento>
+			<velocidadViento>10 Km/h</velocidadViento>
+			<tempMax>21ºC</tempMax>
+			<tempMin>10ºC</tempMin>
+			<sensTermMax>21ºC</sensTermMax>
+			<sensTermMin>10ºC</sensTermMin>
+			<humedadRelMax>90%</humedadRelMax>
+			<humedadRelMin>50%</humedadRelMin>
+			<indiceUVMax>3</indiceUVMax>
+		</fecha>
+	</ciudad>
+</prediccion>
