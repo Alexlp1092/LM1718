@@ -1,0 +1,21 @@
+<facturacion>
+	<factura n=0>
+		<codigo></codigo>
+		<fechaEmision></fechaEmision>
+		<datosCliente dni=xxxxxx>
+			<nombre></nombre>
+			<direccion></direccion>
+			<ccpp></ccpp>
+			<poblacion></poblacion>
+		</datosCliente>
+		<producto codigo=0>
+			<cantidad></cantidad>
+			<denominacion></denominacion>
+			<precioUnitario></precioUnitario>
+			<iva></iva>
+		</producto>
+		<importeTotal>
+			<descuento></descuento>
+		</importeTotal>
+	</factura>
+</facturacion>

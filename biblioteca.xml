@@ -1,0 +1,16 @@
+<bibilioteca>
+	<prestamo n=0>
+		<libro code=0>
+			<ISBN></ISBN>
+			<nombre></nombre>
+			<editorial></editorial>
+			<añoPublicacion></añoPublicacion>
+			<autor></autor>
+		</libro>
+		<socio DNI=XXXXXX>
+			<nombre></nombre>
+			<direccion></direccion>
+		</socio>
+		<fechaPrestamo></fechaPrestamo>
+	</prestamo>
+</bibilioteca>
