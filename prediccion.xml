@@ -5,8 +5,10 @@
 			<estadoCielo>Intervalos Nubosos</estadoCielo>
 			<direccionViento>Suroeste</direccionViento>
 			<velocidadViento>10 Km/h</velocidadViento>
-			<tempMax>21ºC</tempMax>
-			<tempMin>10ºC</tempMin>
+			<temperatura>
+				<max>21ºC</max>
+				<min>10ºC</min>
+			</temperatura>
 			<sensTermMax>21ºC</sensTermMax>
 			<sensTermMin>10ºC</sensTermMin>
 			<humedadRelMax>90%</humedadRelMax>
