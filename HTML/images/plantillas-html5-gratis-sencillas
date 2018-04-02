@@ -1,0 +1,738 @@
+
+<!DOCTYPE html>
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+	10 plantillas HTML5 gratis sencillas</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://cablecreativo.com/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="¿Quieres más plantillas para tus diseños web? Aquí te dejo unas cuantas plantillas html5 gratis. Diseño sencillo con html5 y css3. 100% responsive."/>
+<link rel="canonical" href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="10 plantillas HTML5 gratis sencillas" />
+<meta property="og:description" content="¿Quieres más plantillas para tus diseños web? Aquí te dejo unas cuantas plantillas html5 gratis. Diseño sencillo con html5 y css3. 100% responsive." />
+<meta property="og:url" content="http://cablecreativo.com/plantillas-html5-gratis-sencillas/" />
+<meta property="og:site_name" content="Cable Creativo" />
+<meta property="article:author" content="https://www.facebook.com/gratisDyC" />
+<meta property="article:tag" content="gratis" />
+<meta property="article:tag" content="html5" />
+<meta property="article:tag" content="plantillas" />
+<meta property="article:tag" content="recursos" />
+<meta property="article:tag" content="responsive" />
+<meta property="article:tag" content="sitio web" />
+<meta property="article:tag" content="squeeze page" />
+<meta property="article:tag" content="templetes" />
+<meta property="article:section" content="Plantillas" />
+<meta property="article:published_time" content="2014-11-20T13:04:57-06:00" />
+<meta property="article:modified_time" content="2016-11-12T12:19:06-06:00" />
+<meta property="og:updated_time" content="2016-11-12T12:19:06-06:00" />
+<meta property="og:image" content="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-horizons.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="477" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="¿Quieres más plantillas para tus diseños web? Aquí te dejo unas cuantas plantillas html5 gratis. Diseño sencillo con html5 y css3. 100% responsive." />
+<meta name="twitter:title" content="10 plantillas HTML5 gratis sencillas" />
+<meta name="twitter:site" content="@cablecreativo" />
+<meta name="twitter:image" content="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-horizons.jpg" />
+<meta name="twitter:creator" content="@cablecreativo" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cable Creativo &raquo; Feed" href="http://cablecreativo.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cable Creativo &raquo; RSS de los comentarios" href="http://cablecreativo.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cable Creativo &raquo; 10 plantillas HTML5 gratis sencillas RSS de los comentarios" href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cablecreativo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://cablecreativo.com/wp-content/plugins/captcha/css/front_end_style.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://cablecreativo.com/wp-includes/css/dashicons.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://cablecreativo.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tm_clicktotweet-css'  href='http://cablecreativo.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://cablecreativo.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sab-plugin-css'  href='http://cablecreativo.com/wp-content/plugins/simple-author-box/css/simple-author-box.min.css?ver=v1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_style_family_tve_flt-css'  href='http://cablecreativo.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=1.500.18' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_leads_forms-css'  href='//cablecreativo.com/wp-content/plugins/thrive-leads/editor-layouts/css/frontend.css?ver=1.95.19' type='text/css' media='all' />
+<link rel='stylesheet' id='tve-leads-font-273e5a04440549b4af13b50a0afd3966-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C500%2C700&#038;ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tve-leads-font-ecb81ee48a399e1c04f25423eb661708-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C300%2C700&#038;ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tve-leads-28_set-css'  href='//cablecreativo.com/wp-content/plugins/thrive-leads/editor-templates/_form_css/28_set.css?ver=1.95.19' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://cablecreativo.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious_style-css'  href='http://cablecreativo.com/wp-content/themes/spacious-pro/style.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious_googlefonts-css'  href='http://fonts.googleapis.com/css?family=Lato&#038;ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-styles-css'  href='http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css?ver=%203.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-corp-styles-css'  href='http://cablecreativo.com/wp-content/plugins/font-awesome-more-icons/assets/css/font-awesome-corp.css?ver=%203.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-ext-styles-css'  href='http://cablecreativo.com/wp-content/plugins/font-awesome-more-icons/assets/css/font-awesome-ext.css?ver=%203.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-social-styles-css'  href='http://cablecreativo.com/wp-content/plugins/font-awesome-more-icons/assets/css/font-awesome-social.css?ver=%203.5' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-more-ie7-css'  href='http://cablecreativo.com/wp-content/plugins/font-awesome-more-icons/assets/css/font-awesome-more-ie7.min.css?ver=%203.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='forget-about-shortcode-buttons-css'  href='http://cablecreativo.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://cablecreativo.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/plugins/thrive-visual-editor/editor/js/compat.min.js?ver=1.500.18'></script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/themes/spacious-pro/js/spacious-custom.js?ver=4.8.5'></script>
+<link rel='https://api.w.org/' href='http://cablecreativo.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cablecreativo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cablecreativo.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.5" />
+<link rel='shortlink' href='http://cablecreativo.com/?p=528' />
+<link rel="alternate" type="application/json+oembed" href="http://cablecreativo.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcablecreativo.com%2Fplantillas-html5-gratis-sencillas%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://cablecreativo.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcablecreativo.com%2Fplantillas-html5-gratis-sencillas%2F&#038;format=xml" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47257485-4', 'auto');
+  ga('send', 'pageview');
+
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4dc9d50a64e645a0"></script>		<style type="text/css"> blockquote { border-left: 3px solid #2ea3f2; }
+			.spacious-button, input[type="reset"], input[type="button"], input[type="submit"], button { background-color: #2ea3f2; }
+			.previous a:hover, .next a:hover { 	color: #2ea3f2; }
+			a { color: #2ea3f2; }
+			#site-title a:hover { color: #2ea3f2; }
+			.main-navigation ul li.current_page_item a, .main-navigation ul li:hover > a { color: #2ea3f2; }
+			.main-navigation ul li ul { border-top: 1px solid #2ea3f2; }
+			.main-navigation ul li ul li a:hover, .main-navigation ul li ul li:hover > a, .main-navigation ul li.current-menu-item ul li a:hover { color: #2ea3f2; }
+			.site-header .menu-toggle:hover { background: #2ea3f2; }
+			.main-small-navigation li:hover { background: #2ea3f2; }
+			.main-small-navigation ul > .current_page_item, .main-small-navigation ul > .current-menu-item { background: #2ea3f2; }
+			.main-navigation a:hover, .main-navigation ul li.current-menu-item a, .main-navigation ul li.current_page_ancestor a, .main-navigation ul li.current-menu-ancestor a, .main-navigation ul li.current_page_item a, .main-navigation ul li:hover > a  { color: #2ea3f2; }
+			.small-menu a:hover, .small-menu ul li.current-menu-item a, .small-menu ul li.current_page_ancestor a, .small-menu ul li.current-menu-ancestor a, .small-menu ul li.current_page_item a, .small-menu ul li:hover > a { color: #2ea3f2; }
+			#featured-slider .slider-read-more-button { background-color: #2ea3f2; }
+			#controllers a:hover, #controllers a.active { background-color: #2ea3f2; color: #2ea3f2; }
+			.breadcrumb a:hover { color: #2ea3f2; }
+			.tg-one-half .widget-title a:hover, .tg-one-third .widget-title a:hover, .tg-one-fourth .widget-title a:hover { color: #2ea3f2; }
+			.pagination span { background-color: #2ea3f2; }
+			.pagination a span:hover { color: #2ea3f2; border-color: .#2ea3f2; }
+			.widget_testimonial .testimonial-post { border-color: #2ea3f2 #EAEAEA #EAEAEA #EAEAEA; }
+			.call-to-action-content-wrapper { border-color: #EAEAEA #EAEAEA #EAEAEA #2ea3f2; }
+			.call-to-action-button { background-color: #2ea3f2; }
+			#content .comments-area a.comment-permalink:hover { color: #2ea3f2; }
+			.comments-area .comment-author-link a:hover { color: #2ea3f2; }
+			.comments-area .comment-author-link span { background-color: #2ea3f2; }
+			.comment .comment-reply-link:hover { color: #2ea3f2; }
+			.nav-previous a:hover, .nav-next a:hover { color: #2ea3f2; }
+			#wp-calendar #today { color: #2ea3f2; }
+			.widget-title span { border-bottom: 2px solid #2ea3f2; }
+			.footer-widgets-area a:hover { color: #2ea3f2 !important; }
+			.footer-socket-wrapper .copyright a:hover { color: #2ea3f2; }
+			a#back-top:before { background-color: #2ea3f2; }
+			.read-more, .more-link { color: #2ea3f2; }
+			.post .entry-title a:hover, .page .entry-title a:hover { color: #2ea3f2; }
+			.entry-meta .read-more-link { background-color: #2ea3f2; }
+			.entry-meta a:hover, .type-page .entry-meta a:hover { color: #2ea3f2; }
+			.single #content .tags a:hover { color: #2ea3f2; }
+			.widget_testimonial .testimonial-icon:before { color: #2ea3f2; }
+			a#scroll-up { background-color: #2ea3f2; }
+			#search-form span { background-color: #2ea3f2; }
+			.widget_featured_posts .tg-one-half .entry-title a:hover { color: #2ea3f2; }
+			.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button { background-color: #2ea3f2; }
+			.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page a.button:hover,.woocommerce-page button.button:hover,.woocommerce-page input.button:hover,.woocommerce-page #respond input#submit:hover,.woocommerce-page #content input.button:hover { background-color: #2ea3f2; }
+			#content .wp-pagenavi .current, #content .wp-pagenavi a:hover { background-color: #2ea3f2; } #featured-slider .slider-read-more-button { background-color: #2ea3f2; } .entry-meta a, .type-page .entry-meta a { color: #999999; } .entry-meta .read-more-link { background-color: #2ea3f2; } .read-more, .more-link { color: #2ea3f2; } .call-to-action-button  { background-color: #2ea3f2; }</style>
+				<style type="text/css">#header-logo-image 
+{
+	margin: 12px 0;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#header-logo-image {
+		text-align: center !important;
+	}
+	#header-text {
+		text-align: center !important;
+	}
+}
+
+#main
+{
+	background: #F1F1F1;
+}
+
+.single-post footer.entry-meta-bar 
+{
+	border: none !important;
+}
+
+.blog article.post,
+.single div#content,
+.page div#content,
+.search article,
+.category article,
+.tag article,
+.archive article
+{
+	background: #FFFFFF !important;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+div.header-post-title-container
+{
+	background: #FFFFFF !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+.post-featured-image img,
+div.entry-content img
+{
+	border:solid 1px #E0E0E0;
+}
+
+div.entry-content ol,
+div.entry-content ul
+{
+	padding-left: 21px !important;
+}
+
+div.entry-content li
+{
+	line-height : 24px !important;
+	margin-bottom: 15px !important;
+}
+
+div.entry-content h2
+{
+	font-size : 20px !important;
+}
+
+div.entry-meta
+{
+	border: none !important;
+}
+
+div.entry-meta span.read-more-link
+{
+	/*margin-top: 5px !important;*/
+	/*padding: 10px !important;*/
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+div.entry-meta a.read-more
+{
+	/*font-size: 22px !important;*/
+}
+
+#mc4wp-checkbox 
+{
+    background-color: #d9edf7;
+    border: solid 1px #bce8f1;
+    padding: 10px;
+    display: block;
+}
+
+/* CENTER HEADER */
+/*
+#header-left-section
+{
+	display:block !important;
+	float: none !important;
+	overflow: hidden !important;
+	text-align:center !important;
+	margin: 0 0 15px 0 !important;
+	padding: 0 !important;
+}
+
+#header-logo-image
+{
+	display:block !important;
+	float: none !important;
+	overflow: hidden !important;
+	text-align:center !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+#header-right-section
+{
+	display:block !important;
+	float: none !important;
+	overflow: hidden !important;
+	text-align:center !important;
+}
+
+#header-right-section .widget 
+{
+	padding: 0 0 10px 0 !important;
+	float: none !important;
+	text-align: center !important;
+}
+
+#masthead .search-wrap span 
+{
+	right: auto !important;
+	left: auto !important;
+}
+
+#masthead input.s 
+{
+	margin-left: -30px !important;
+}
+	
+#site-navigation
+{
+	display:block !important;
+	float: none !important;
+	overflow: hidden !important;
+	text-align:center !important;
+}
+
+#menu-menu
+{
+	text-align:center !important;
+}
+
+@media (min-width: 769px) 
+{
+	.main-navigation li
+	{
+		padding: 0 12px !important;
+	}
+
+	#menu-menu li
+	{
+		display: inline-block !important;
+		text-align:center !important;
+		float: none !important;
+	}
+}
+*/
+
+.saboxplugin-wrap
+{
+    margin-bottom: 35px !important;
+}
+
+.wp-pagenavi
+{
+    text-align: left !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.tm-ctt-text a
+{
+    font-size: 20px !important;
+}
+
+.image-display-block:before,
+.image-display-block:after
+{
+    content: "A" !important;
+    display:block !important;
+    overflow:hidden !important;
+    clear:both !important;
+}
+
+ins, .ins {
+	background-color: #FFF !important;
+	color: #000 !important;
+	text-decoration: none !important;
+}
+
+#secondary ins, #secondary .ins {
+	background-color: #F1f1f1 !important;
+	color: #000 !important;
+	text-decoration: none !important;
+}
+</style>
+		<style type="text/css">.saboxplugin-wrap .saboxplugin-gravatar img {-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;border-radius:50%;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color {-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;border-radius:50%;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color:before {text-shadow: none;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color {border: medium none !important;}.saboxplugin-wrap {margin-top:0px;}.saboxplugin-wrap {margin-bottom:0px;}.saboxplugin-wrap .saboxplugin-authorname {font-size:18px; line-height:25px;}.saboxplugin-wrap .saboxplugin-desc {font-size:14px; line-height:21px;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color {font-size:21px;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color:before {width:36px; height:36px; line-height:37px; }.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey {font-size:18px;}</style></head>
+
+<body class="post-template-default single single-post postid-528 single-format-standard  wide-978">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header clearfix">
+
+				
+		
+		<div id="header-text-nav-container">
+			<div class="inner-wrap">
+				
+				<div id="header-text-nav-wrap" class="clearfix">
+					<div id="header-left-section">
+													<div id="header-logo-image">
+								<a href="http://cablecreativo.com/" title="Cable Creativo" rel="home"><img src="http://cablecreativo.com/wp-content/uploads/2015/02/cable-creativo-logo-071.png" alt="Cable Creativo"></a>
+							</div><!-- #header-logo-image -->
+											</div><!-- #header-left-section -->
+					<div id="header-right-section">
+														
+						<div id="header-right-sidebar" class="clearfix">
+						<aside id="search-4" class="widget widget_search"><form action="http://cablecreativo.com/"id="search-form" class="searchform clearfix" method="get">
+	<div class="search-wrap">
+		<input type="text" placeholder="Search" class="s field" name="s">
+		<span class="search-icon"></span>
+	</div>
+	<input type="submit" value="Search" id="search-submit" name="submit" class="submit">
+</form><!-- .searchform --></aside>		
+						</div>
+												<nav id="site-navigation" class="main-navigation" role="navigation">
+							<h1 class="menu-toggle">Menu</h1>
+							<div class="menu-principal-container"><ul id="menu-principal" class="menu"><li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="/">Inicio</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://cablecreativo.com/contacto/">Servicios</a></li>
+</ul></div>						</nav>					
+			    	</div><!-- #header-right-section --> 
+			    	
+			   </div><!-- #header-text-nav-wrap -->
+			</div><!-- .inner-wrap -->
+		</div><!-- #header-text-nav-container -->
+
+		
+				<div class="header-post-title-container clearfix">
+			<div class="inner-wrap">
+				<div class="post-title-wrapper">
+									   	<h1 class="header-post-title-class">10 plantillas HTML5 gratis sencillas</h1>
+				   				</div>
+							</div>
+		</div>
+			</header>
+			<div id="main" class="clearfix">
+		<div class="inner-wrap">
+			
+	<div id="primary">
+		<div id="content" class="clearfix">
+						
+				
+<article id="post-528" class="post-528 post type-post status-publish format-standard has-post-thumbnail hentry category-plantillas tag-gratis tag-html5 tag-plantillas-2 tag-recursos tag-responsive tag-sitio-web tag-squeeze-page tag-templetes">
+		<div class="entry-content clearfix">
+		
+<p>¿Quieres más plantillas para tus diseños web? Aquí te dejo unas cuantas <strong>plantillas HTML5 gratis</strong>.</p>
+<p>Las características de estas plantillas son:</p>
+<ul>
+<li>Diseño sencillo y fácil de editar.</li>
+<li>Desarrolladas con HTML5 y css3.</li>
+<li>Diseño 100% responsive.</li>
+<li>Código HTML claro y limpio.</li>
+<li>Hoja de estilos CSS sencilla de manipular.</li>
+<li>Descarga gratis bajo la licencia CC-BY 3.0</li>
+<li>Compatibles 100% con Dreamweaver.</li>
+</ul>
+<p>Los creadores de estas plantillas son <a title="Cherry y AJ" href="http://templated.co/" target="_blank">Cherry y AJ</a>, dos de mis diseñadores web favoritos.</p>
+<p>Vamos pues a ver las plantillas.</p>
+
+<hr />
+<h2>Autonomy – Plantilla HTML5 con 4 modelos de página.</h2>
+<p><img class="aligncenter size-full wp-image-533" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-autonomy.jpg" alt="Autonomy – Plantilla HTML5 con 4 modelos de página" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-autonomy.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-autonomy-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-autonomy.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/autonomy/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Colorized &#8211; Plantilla HTML5 con 5 modelos de página.</h2>
+<p><img class="aligncenter size-full wp-image-534" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-colorized.jpg" alt="Colorized - Plantilla HTML5 con 5 modelos de página" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-colorized.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-colorized-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-colorized.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/colorized/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Ex Machina – Espectacular plantilla con homepage y 3 variaciones.</h2>
+<p><img class="aligncenter size-full wp-image-535" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-exmachina.jpg" alt="Ex Machina – Espectacular plantilla con homepage y 3 variaciones" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-exmachina.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-exmachina-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-exmachina.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/exmachina/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Horizons – Diseño html5, menu desplegable y 4 modelos de página.</h2>
+<p><img class="aligncenter size-full wp-image-536" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-horizons.jpg" alt="Horizons – Diseño html5, menu desplegable y 4 modelos de página" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-horizons.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-horizons-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-horizons.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/horizons/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Ion – Ideal para landing page o página de un producto.</h2>
+<p><img class="aligncenter size-full wp-image-537" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-ion.jpg" alt="Ion – Ideal para landing page o página de un producto" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-ion.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-ion-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-ion.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/ion/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Iridium – Plantilla con homepage y 3 interiores distintos. Recomendada para blog.</h2>
+<p><img class="aligncenter size-full wp-image-538" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-iridium.jpg" alt="Iridium – Plantilla con homepage y 3 interiores distintos. Recomendada para blog" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-iridium.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-iridium-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-iridium.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/iridium/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Linear – Diseño amplio y limpio.</h2>
+<p><img class="aligncenter size-full wp-image-539" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-linear.jpg" alt="Linear – Diseño amplio y limpio" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-linear.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-linear-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-linear.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/linear/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Monochromed – Impresionante plantilla recomendada para sitios web de negocios.</h2>
+<p><img class="aligncenter size-full wp-image-540" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-monochromed.jpg" alt="Monochromed – Impresionante plantilla recomendada para sitios web de negocios" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-monochromed.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-monochromed-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-monochromed.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/monochromed/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Solarize – Con menú desplegable y botones para llamados a la acción.</h2>
+<p><img class="aligncenter size-full wp-image-541" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-solarize.jpg" alt="Solarize – Con menú desplegable y botones para llamados a la acción" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-solarize.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-solarize-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-solarize.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/solarize/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<h2>Synchronous – Ideal para blog. Tiene 5 modelos distintos de página.</h2>
+<p><img class="aligncenter size-full wp-image-542" src="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-synchronous.jpg" alt="Synchronous – Ideal para blog. Tiene 5 modelos distintos de página" width="1000" height="477" srcset="http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-synchronous.jpg 1000w, http://cablecreativo.com/wp-content/uploads/2014/11/plantillas-html5-gratis-sencillas-synchronous-300x143.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://cablecreativo.com/wp-content/uploads/2014/11/templated-synchronous.zip" data-fasc-style="background-color:#717171;color:#ffffff;">Descargar</a>  <a class="fasc-button fasc-size-large fasc-type-flat" style="background-color: #717171; color: #ffffff;" href="http://templated.co/items/demos/synchronous/" target="_blank" data-fasc-style="background-color:#717171;color:#ffffff;">Vista previa</a></p>
+<p>Autor: <a title="Templated.co" href="http://templated.co/" target="_blank">Templated.co</a> – Licencia: <a title="Creative Commons Attribution 3.0" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY 3.0</a></p>
+<hr />
+<p>Ahí las tienes. Espero que te hayan gustado y te resulten útiles para tu trabajo o para tus proyectos personales.</p>
+<p>Actualización: Visita este artículo con otras increíbles <a title="14 Plantillas increíbles para crear páginas web" href="http://cablecreativo.com/plantillas-para-crear-paginas-web/">plantillas para crear páginas web</a>.</p>
+<p>También te recomiendo que le eches un vistazo a nuestra sección de plantillas, ahí puedes encontrar más <a title="Plantillas" href="http://cablecreativo.com/categorias/plantillas/">plantillas de todo tipo</a> y para varias plataformas.</p>
+<p>Y si lo que buscas son plantillas para un blog, te recomiendo este artículo sobre <a title="11 Plantillas WordPress responsive limpias sencillas y gratuitas" href="http://cablecreativo.com/plantillas-wordpress-responsive-limpias-sencillas-gratuitas/">plantillas para WordPress</a>.</p>
+<p>¿Quieres recibir un correo cada vez que encontremos nuevas plantillas? Te puedes registrar abajo al Newsletter.</p>
+
+<span id="tve_leads_end_content" style="display: block; visibility: hidden; border: 1px solid transparent;"></span><div class="tve-leads-post-footer tve-tl-anim tve-leads-track-post_footer-4 tl-anim-instant"><div class="tl-style" id="tve_28_set" data-state="4"><div class="tve-leads-conversion-object" data-tl-type="post_footer"><div class="tve_flt"><div id="tve_editor" class="tve_shortcode_editor"><div class="thrv-leads-form-box tve_no_drag tve_no_icons tve_element_hover thrv_wrapper tve_editor_main_content tve_28_set tve_blue tve_brdr_solid tve_empty_dropzone">
+<h2 style="color: rgb(255, 255, 255); font-size: 32px; margin-top: 20px; margin-bottom: 10px; line-height: 36px;" class="rft" data-unit="px"><span class="tve_custom_font_size" style="font-size: 26px;">Los mejores recursos gratis para diseñadores, creativos y emprendedores.</span></h2><p style="color: #fff; font-size: 18px; margin-top: 0;">Suscríbete a Cable Creativo y recibe recursos gratis por email</p><div class="thrv_wrapper thrv_contentbox_shortcode" data-tve-style="5">
+<div class="tve_cb tve_cb5 tve_blue" style="margin: 0 -20px -20px;">
+<div class="tve_cb_cnt tve_empty_dropzone">
+<div data-tve-style="1" class="thrv_wrapper thrv_lead_generation tve_clearfix tve_red tve_14 thrv_lead_generation_horizontal" data-inputs-count="14" style="margin-top: 0;margin-bottom: 0;" data-tve-version="1" data-connection="api">
+<div style="display: none;" class="thrv_lead_generation_code"></div>
+<input type="hidden" class="tve-lg-err-msg" value="{&quot;email&quot;:&quot;Ingresa un email válido&quot;,&quot;phone&quot;:&quot;Ingresa un teléfono válido&quot;,&quot;required&quot;:&quot;Ingresa los campos requeridos&quot;}">
+<div class="thrv_lead_generation_container tve_clearfix"><form action="#" method="post"><input type="hidden" class="tve-f-a-hidden" value="#"><div class="tve_lead_generated_inputs_container tve_clearfix"><div class="tve_lead_fields_overlay"></div><div class="tve_lg_input_container tve_lg_input tve_lg_2"><input type="email" data-field="email" data-required="1" data-validation="email" name="email" placeholder="Ingresa tu email" data-placeholder="Ingresa tu email" style="padding-right: 20px;"></div><input id="_form_type" type="hidden" name="_form_type" value="post-footer"><input id="__tcb_lg_fc" type="hidden" name="__tcb_lg_fc" value="YToxOntzOjEwOiJzZW5kaW5ibHVlIjtzOjE6IjIiO30="><input id="__tcb_lg_msg" type="hidden" name="__tcb_lg_msg" value="undefined"><input id="_asset_group" type="hidden" name="_asset_group" value=""><input id="_asset_option" type="hidden" name="_asset_option" value=""><input id="_error_message_option" type="hidden" name="_error_message_option" value=""><input id="_back_url" type="hidden" name="_back_url" value=""><input id="_submit_option" type="hidden" name="_submit_option" value="reload"><input id="_use_captcha" type="hidden" name="_use_captcha" value=""><input id="_captcha_theme" type="hidden" name="_captcha_theme" value="light"><input id="_captcha_type" type="hidden" name="_captcha_type" value="image"><input id="_captcha_size" type="hidden" name="_captcha_size" value="normal"><div style="display: none"></div><div class="tve_lg_input_container tve_submit_container tve_lg_submit tve_lg_2">
+<button type="Submit">Suscribirme</button>
+</div></div></form></div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div></div>	</div>
+
+	<footer class="entry-meta-bar clearfix">	        			
+		<div class="entry-meta clearfix">
+			<span class="by-author"><a href="http://cablecreativo.com/author/matias/">Matías</a></span>
+			<span class="date"><a href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/" title="13:04">noviembre 20, 2014</a></span>
+			       		<span class="category"><a href="http://cablecreativo.com/categorias/plantillas/" rel="category tag">Plantillas</a></span>
+       					       		<span class="comments"><a href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/#comments">4 Comments</a></span>
+       	       			</div>
+	</footer>
+	</article>
+
+
+				
+
+
+				
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			4 thoughts on &ldquo;<span>10 plantillas HTML5 gratis sencillas</span>&rdquo;		</h2>
+
+		
+		<ul class="comment-list">
+				<li class="comment even thread-even depth-1" id="li-comment-96">
+		<article id="comment-96" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/33a9d737bd48d72adc3a1f72ca832ace?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/33a9d737bd48d72adc3a1f72ca832ace?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' /><div class="comment-author-link"><a href='http://www.desarrolladoresalpha.com' rel='external nofollow' class='url'>GustavoMG</a></div><div class="comment-date-time">febrero 16, 2015 at 14:45</div><a class="comment-permalink" href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/#comment-96">Permalink</a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>BUENISIMAS PLANTILLAS (:<br />
+TODAS ESTAN FANTASTICAS!!<br />
+Gran trabajo.</p>
+				<a rel='nofollow' class='comment-reply-link' href='http://cablecreativo.com/plantillas-html5-gratis-sencillas/?replytocom=96#respond' onclick='return addComment.moveForm( "comment-96", "96", "respond", "528" )' aria-label='Responder a GustavoMG'>Reply</a>			</section><!-- .comment-content -->
+			
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-103">
+		<article id="comment-103" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7e489fa3d6c1dc09cffe71d110e18894?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7e489fa3d6c1dc09cffe71d110e18894?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' /><div class="comment-author-link">Thony</div><div class="comment-date-time">marzo 9, 2015 at 09:05</div><a class="comment-permalink" href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/#comment-103">Permalink</a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>de lo mejor, gracias!!!</p>
+				<a rel='nofollow' class='comment-reply-link' href='http://cablecreativo.com/plantillas-html5-gratis-sencillas/?replytocom=103#respond' onclick='return addComment.moveForm( "comment-103", "103", "respond", "528" )' aria-label='Responder a Thony'>Reply</a>			</section><!-- .comment-content -->
+			
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-137">
+		<article id="comment-137" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/663d11795ef75cad57d2b41752ec8e6c?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/663d11795ef75cad57d2b41752ec8e6c?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' /><div class="comment-author-link">John</div><div class="comment-date-time">mayo 6, 2015 at 18:41</div><a class="comment-permalink" href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/#comment-137">Permalink</a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Bueno, voy iniciando en esto, espero puedan orientarme&#8230; una vez que descargue estas plantillas como las puedo editar de manera &#8220;amigable&#8221; &#8230; cambiar imagenes, texto&#8230;etc.??? Muchas gracias por su ayuda.</p>
+				<a rel='nofollow' class='comment-reply-link' href='http://cablecreativo.com/plantillas-html5-gratis-sencillas/?replytocom=137#respond' onclick='return addComment.moveForm( "comment-137", "137", "respond", "528" )' aria-label='Responder a John'>Reply</a>			</section><!-- .comment-content -->
+			
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-142">
+		<article id="comment-142" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/a13ddf56b1a47f681c7805fa7bc9d1b3?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a13ddf56b1a47f681c7805fa7bc9d1b3?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' /><div class="comment-author-link"><a href='http://-' rel='external nofollow' class='url'>Isaak</a></div><div class="comment-date-time">mayo 20, 2015 at 11:44</div><a class="comment-permalink" href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/#comment-142">Permalink</a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>porque cuando cambias de ruta las paginas el css no se queda unido?? , es decir, meto paginas en sub carpetas edito la ruta relativa con ../ pero no lo coje y la pagina sale sin css</p>
+				<a rel='nofollow' class='comment-reply-link' href='http://cablecreativo.com/plantillas-html5-gratis-sencillas/?replytocom=142#respond' onclick='return addComment.moveForm( "comment-142", "142", "respond", "528" )' aria-label='Responder a Isaak'>Reply</a>			</section><!-- .comment-content -->
+			
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+		</ul><!-- .comment-list -->
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deja un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/plantillas-html5-gratis-sencillas/#respond" style="display:none;">Cancelar respuesta</a></small></h3>			<form action="http://cablecreativo.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Tu dirección de correo electrónico no será publicada.</span> Los campos obligatorios están marcados con <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Correo electrónico <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Web</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="cptch_block"><script class="cptch_to_remove">
+				(function( timeout ) {
+					setTimeout(
+						function() {
+							var notice = document.getElementById("cptch_time_limit_notice_89");
+							if ( notice )
+								notice.style.display = "block";
+						},
+						timeout
+					);
+				})(120000);
+			</script>
+			<span id="cptch_time_limit_notice_89" class="cptch_time_limit_notice cptch_to_remove">Time limit is exhausted. Please reload CAPTCHA.</span><span class="cptch_wrap cptch_math_actions">
+				<label class="cptch_label" for="cptch_input_89"><span class="cptch_span"><input id="cptch_input_89" class="cptch_input cptch_wp_comments" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+					<span class="cptch_span">&nbsp;&#43;&nbsp;</span>
+					<span class="cptch_span">tres</span>
+					<span class="cptch_span">&nbsp;=&nbsp;</span>
+					<span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,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" alt="image"/></span>
+					<input type="hidden" name="cptch_result" value="tzc=" /><input type="hidden" name="cptch_time" value="1520335677" />
+					<input type="hidden" name="cptch_form" value="wp_comments" />
+				</label><span class="cptch_reload_button_wrap hide-if-no-js">
+					<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+					<span class="cptch_reload_button dashicons dashicons-update"></span>
+				</span></span></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar comentario" /> <input type='hidden' name='comment_post_ID' value='528' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	
+	
+<div id="secondary">
+			
+		<aside id="text-3" class="widget widget_text">			<div class="textwidget"></div>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title"><span>Categorías</span></h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://cablecreativo.com/categorias/blog/" >Blog</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://cablecreativo.com/categorias/herramientas/" >Herramientas</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://cablecreativo.com/categorias/imagenes/" >Imágenes</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://cablecreativo.com/categorias/logotipos/" >Logotipos</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://cablecreativo.com/categorias/mockups/" >Mockups</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://cablecreativo.com/categorias/plantillas/" >Plantillas</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://cablecreativo.com/categorias/tipografias/" >Tipografías</a>
+</li>
+		</ul>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title"><span>Entradas recientes</span></h3>		<ul>
+					<li>
+				<a href="http://cablecreativo.com/plantillas-gratis-crear-logos-psd-vector/">51 Plantillas gratis para crear logos en PSD y vector</a>
+						</li>
+					<li>
+				<a href="http://cablecreativo.com/plantillas-para-crear-paginas-web/">14 Plantillas increíbles para crear páginas web (descarga gratuita)</a>
+						</li>
+					<li>
+				<a href="http://cablecreativo.com/tipos-letras-crear-logos/">23 hermosos tipos de letras para crear logos (gratis para descargar)</a>
+						</li>
+					<li>
+				<a href="http://cablecreativo.com/plantillas-html5-gratis-sencillas/">10 plantillas HTML5 gratis sencillas</a>
+						</li>
+					<li>
+				<a href="http://cablecreativo.com/garigoleados-elegantes-descargar/">Garigoleados elegantes para descargar</a>
+						</li>
+				</ul>
+		</aside>		<!-- fixed widget -->	</div>	
+	
+
+		</div><!-- .inner-wrap -->
+	</div><!-- #main -->	
+			<footer id="colophon" class="clearfix">	
+			
+	
+			<div class="footer-socket-wrapper clearfix">
+				<div class="inner-wrap">
+					<div class="footer-socket-area">
+						<div class="copyright">Copyright © 2018 <a href="http://cablecreativo.com/" title="Cable Creativo" ><span>Cable Creativo</span></a></div>						<nav class="small-menu" class="clearfix">
+							<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="http://cablecreativo.com/poitica-de-privacidad/">Poítica de privacidad</a></li>
+<li id="menu-item-729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729"><a href="http://cablecreativo.com/terminos-del-servicio/">Términos del servicio</a></li>
+</ul></div>		    			</nav>
+					</div>
+				</div>
+			</div>			
+		</footer>
+		<a href="#masthead" id="scroll-up"></a>	
+	</div><!-- #page -->
+	<div id="tve_notification_box"></div><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/cablecreativo.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"1","ajaxurl":"http:\/\/cablecreativo.com\/wp-admin\/admin-ajax.php","social_fb_app_id":"","dash_url":"http:\/\/cablecreativo.com\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard","translations":{"Copy":"Copy"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/plugins/thrive-visual-editor/editor/js/thrive_content_builder_frontend.min.js?ver=1.500.18'></script>
+<script type='text/javascript' src='//cablecreativo.com/wp-content/plugins/thrive-leads/js/frontend.min.js?ver=1.95.19'></script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-includes/js/comment-reply.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/themes/spacious-pro/js/navigation.js?ver=4.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"http:\/\/cablecreativo.com\/wp-admin\/admin-ajax.php","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=1.0.45'></script>
+<script type='text/javascript'>
+var q2w3_sidebar_options = new Array();
+q2w3_sidebar_options[0] = { "sidebar" : "spacious_right_sidebar", "margin_top" : 10, "margin_bottom" : 0, "stop_id" : "", "screen_max_width" : 0, "screen_max_height" : 0, "width_inherit" : false, "refresh_interval" : 1500, "window_load_hook" : false, "disable_mo_api" : false, "widgets" : ['widget_thrive_leads-2'] };
+</script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"a9c9eae0c2","ajaxurl":"http:\/\/cablecreativo.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cablecreativo.com/wp-content/plugins/captcha/js/front_end_script.js?ver=4.8.5'></script>
+<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) var TL_Const={"security":"d221e3cf3f","ajax_url":"\/\/cablecreativo.com\/wp-admin\/admin-ajax.php","forms":{"post_footer":{"_key":"4","trigger":"page_load","trigger_config":{},"form_type_id":930,"main_group_id":921,"active_test_id":""}},"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":921,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":528},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]}/*]]> */</script><script type="text/javascript">var TL_Front = TL_Front || {}; TL_Front.impressions_data = TL_Front.impressions_data || {};TL_Front.impressions_data.post_footer = {"group_id":921,"form_type_id":930,"variation_key":"4","active_test_id":0,"output_js":true};</script><script type="text/javascript">
+	(function ($) {
+	$(function () {
+		var event_data = {"form_id":"tve-leads-track-post_footer-4","form_type":"post_footer"};
+		event_data.source = 'page_load';
+		setTimeout(function () {
+			ThriveGlobal.$j(TL_Front).trigger('showform.thriveleads', event_data);
+			}, 200);
+		});
+	})
+(ThriveGlobal.$j);
+</script></body>
+</html>

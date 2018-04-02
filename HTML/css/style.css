@@ -1,0 +1,436 @@
+﻿/*
+	Autonomy by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body {
+		margin: 0px;
+		padding: 0px;
+		background: #180E0B;
+		font-family: 'Raleway', sans-serif;
+		font-size: 11pt;
+		color: #000000;
+	}
+
+	h1, h2, h3 {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	h2 {
+		padding: 0px 0px 20px 0px;
+		letter-spacing: -1px;
+		font-size: 1.8em;
+	}
+
+	p, ol, ul {
+		margin-top: 0px;
+		line-height: 160%;
+	}
+
+	p {
+		margin-bottom: 1em;
+		line-height: 150%;
+	}
+
+
+	strong {
+		font-weight: 700;
+	}
+
+	i { 
+		font-style: italic;
+	}
+
+	a {
+		transition: 0.6s ease;
+		color: #000000;
+		border-radius: 5px;
+	}
+
+
+	a:hover {
+		text-decoration: none;
+	}
+
+	a.menu:hover {
+		transition: 0.6s;
+		text-decoration: none;
+		background-color: #56c9d6;
+		border-radius: 5px;
+	}
+
+		/* Images */
+
+			.image
+			{
+				display: inline-block;
+			}
+			
+				.image img
+				{
+					display: block;
+					width: 100%;
+				}
+
+				.image.featured
+				{
+					display: block;
+					width: 100%;
+					margin: 0 0 2em 0;
+				}
+				
+				.image.full
+				{
+					display: block;
+					width: 100%;
+					margin-bottom: 1em;
+				}
+				
+				.image.left
+				{
+					float: left;
+					margin: 0 2em 2em 0;
+				}
+				
+				.image.centered
+				{
+					display: block;
+					margin: 0 0 2em 0;
+				}
+
+					.image.centered img
+					{
+						margin: 0 auto;
+						width: auto;
+					}
+
+		header
+		{
+			margin-bottom: 1em;
+		}
+			
+			header h2
+			{
+				font-weight: 600;
+			}
+		
+			header .byline
+			{
+				display: block;
+				margin: 0.5em 0 0 0;
+				padding: 0 0 0.5em 0;
+			}
+
+		ul.style
+		{
+		}
+		
+		ul.style li
+		{
+			padding: 0.55em 0em;
+		}
+		
+		ul.style li:first-child
+		{
+		}
+		
+		ul.style a
+		{
+			color: #774535 !important;
+		}
+
+		ul.style1
+		{
+		}
+		
+		ul.style1 li
+		{
+			padding: 0.55em 0em;
+		}
+		
+		ul.style1 li:first-child
+		{
+		}
+		
+		ul.style1 a
+		{
+			color: #774535 !important;
+		}
+
+		ul.style1 img
+		{
+			float: left;
+			margin-right: 1em;
+		}
+	
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+		position: relative;
+	}
+
+		#header .container
+		{
+			
+			padding: 6em 0em;
+		}
+
+/*********************************************************************************/
+/* Logo                                                                          */
+/*********************************************************************************/
+
+	#logo
+	{
+		position: absolute;
+		left: 0em;
+		top: 4.5em;
+	}
+	
+		#logo h1
+		{
+			color: #FFF;
+		}
+	
+		#logo a
+		{
+			display: block;
+			text-decoration: none;
+			font-size: 2.8em;
+			font-weight: 600;
+			color: #FFF;
+		}
+
+/*********************************************************************************/
+/* Nav                                                                           */
+/*********************************************************************************/
+
+	#nav
+	{
+		position: absolute;
+		right: 0em;
+		top: 5em;
+	}
+
+		#nav > ul > li
+		{
+			float: left;
+		}
+		
+			#nav > ul > li:last-child
+			{
+				padding-right: 0;
+			}
+
+			#nav > ul > li > a,
+			#nav > ul > li > span
+			{
+				display: block;
+				margin-left: 0.7em;
+				padding: 0.80em 1.2em;
+				letter-spacing: 0.06em;
+				text-decoration: none;
+				font-size: 1em;
+				outline: 0;
+				color: #FFF;
+			}
+
+			#nav li.active a
+			{
+				background: #56c9d6;
+				border-radius: 5px;
+				color: #FFF;
+			}
+
+			#nav > ul > li > ul
+			{
+				display: list-item;
+				list-style-position: inside;
+			}
+
+/*********************************************************************************/
+/* Banner                                                                        */
+/*********************************************************************************/
+
+	#banner
+	{
+		position: relative;
+		background: #333 url(../images/banner.jpg) no-repeat center;
+		background-size: cover;
+	}
+	
+	.homepage #banner
+	{
+	}
+
+/*********************************************************************************/
+/* Main                                                                          */
+/*********************************************************************************/
+
+	#main
+	{
+		position: relative;
+		padding: 6em 0em;
+		background: #261611;
+		color: #774535;
+	}
+	
+	#main header h2
+	{
+		color: #bc765f;
+	}
+	
+	#main a
+	{
+		color: #bc765f;
+	}
+
+/*********************************************************************************/
+/* Featured                                                                      */
+/*********************************************************************************/
+
+	#featured
+	{
+		position: relative;
+		padding: 6em 0em 6em 0em;
+		background: #FFF;
+	}
+
+/*********************************************************************************/
+/* Marketing                                                                     */
+/*********************************************************************************/
+
+	#marketing
+	{
+		position: relative;
+		padding: 6em 0em;
+		background: #372019;
+		color: #8c5240;
+	}
+	
+	#marketing header h2
+	{
+		color: #c0745d;
+	}
+
+/*********************************************************************************/
+/* Copyright                                                                     */
+/*********************************************************************************/
+	
+	#copyright
+	{
+		position: relative;
+		padding: 3em 0em;
+		text-align: center;
+		color: #774535;
+	}
+	
+	#copyright .container
+	{
+	}
+	
+	#copyright a
+	{
+		text-decoration: none;
+		color: #774535 !important;
+	}		
+
+/*********************************************************************************/
+/* Botón                                                                         */
+/*********************************************************************************/
+
+#myBtn {
+	opacity: 0.8;
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #D785DE; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    transition: width 2s
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
+/*********************************************************************************/
+/* Contacto                                                                      */
+/*********************************************************************************/
+
+
+ /* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.contenedor{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+	padding: 2.5em 7em;
+} 
+
+
+/*********************************************************************************/
+/* Tablas                                                                        */
+/*********************************************************************************/
+
+table {
+    width:50%;
+    margin-left:25%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color: #fff;
+}
+table#t01 th {
+    background-color: #ffccff;
+}
